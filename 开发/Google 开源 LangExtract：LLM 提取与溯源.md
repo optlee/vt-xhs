@@ -18,7 +18,7 @@ Google 开源 LangExtract 库，专治 LLM 数据提取中的“胡编乱造”�
 ```
 
 ![Image](../media/Google-开源-LangExtractLLM-提取与溯源-0-1768836589472.jpg)
-![Image](../media/Google-开源-LangExtractLLM-提取与溯源-1-1768836590248.jpg)
-![Image](../media/Google-开源-LangExtractLLM-提取与溯源-2-1768836590806.jpg)
-![Image](../media/Google-开源-LangExtractLLM-提取与溯源-3-1768836591377.jpg)
-![Image](../media/Google-开源-LangExtractLLM-提取与溯源-4-1768836591995.jpg)
+![Image](开发/assets/Google%20开源%20LangExtract：LLM%20提取与溯源/file-20260120202538335.jpg)
+![Image](开发/assets/Google%20开源%20LangExtract：LLM%20提取与溯源/file-20260120202538347.jpg)
+![Image](开发/assets/Google%20开源%20LangExtract：LLM%20提取与溯源/file-20260120202538353.jpg)
+![Image](开发/assets/Google%20开源%20LangExtract：LLM%20提取与溯源/file-20260120202538368.jpg)
