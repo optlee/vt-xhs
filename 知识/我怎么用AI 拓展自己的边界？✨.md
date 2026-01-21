@@ -7,7 +7,7 @@ category: 知识
 ---
 # 我怎么用AI 拓展自己的边界？✨
 
-![Cover Image](http://sns-webpic-qc.xhscdn.com/202601210051/b64658741fbe9600672c8008597e478d/notes_pre_post/1040g3k031l6r3t5ol0005p13uda4i3fds39iom8!nd_dft_wlteh_jpg_3)
+![Cover Image](%E7%9F%A5%E8%AF%86/_resources/%E6%88%91%E6%80%8E%E4%B9%88%E7%94%A8AI%20%E6%8B%93%E5%B1%95%E8%87%AA%E5%B7%B1%E7%9A%84%E8%BE%B9%E7%95%8C%EF%BC%9F%E2%9C%A8/dd6499200e7b633ecc296ff56fb2f727_MD5.jpg)
 
 我的AI 实用场景分享：
 	
@@ -23,5 +23,5 @@ category: 知识
 #AI技巧# #办公效率# #AI工具# #我的学习进化论#
 ```
 
-![Image](http://sns-webpic-qc.xhscdn.com/202601210051/b64658741fbe9600672c8008597e478d/notes_pre_post/1040g3k031l6r3t5ol0005p13uda4i3fds39iom8!nd_dft_wlteh_jpg_3)
-![Image](http://sns-webpic-qc.xhscdn.com/202601210051/5cdb3713edfaab91b1043f46b3ab502e/notes_pre_post/1040g3k031l6r3t5ol00g5p13uda4i3fdt7sdgk0!nd_dft_wlteh_jpg_3)
+![Image](%E7%9F%A5%E8%AF%86/_resources/%E6%88%91%E6%80%8E%E4%B9%88%E7%94%A8AI%20%E6%8B%93%E5%B1%95%E8%87%AA%E5%B7%B1%E7%9A%84%E8%BE%B9%E7%95%8C%EF%BC%9F%E2%9C%A8/dd6499200e7b633ecc296ff56fb2f727_MD5.jpg)
+![Image](%E7%9F%A5%E8%AF%86/_resources/%E6%88%91%E6%80%8E%E4%B9%88%E7%94%A8AI%20%E6%8B%93%E5%B1%95%E8%87%AA%E5%B7%B1%E7%9A%84%E8%BE%B9%E7%95%8C%EF%BC%9F%E2%9C%A8/9da278d3c48d4fad6580ae0c29059060_MD5.jpg)
