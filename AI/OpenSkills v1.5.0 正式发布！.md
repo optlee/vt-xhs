@@ -7,7 +7,7 @@ category: AI
 ---
 # OpenSkills v1.5.0 正式发布！
 
-![Cover Image](../media/OpenSkills-v150-正式发布-0-1768924278645.jpg)
+![Cover Image](file-20260121103304091.jpg)
 
 
 
@@ -15,10 +15,10 @@ category: AI
 #ClaudeCode# #AI# #openskill#
 ```
 
-![Image](../media/OpenSkills-v150-正式发布-0-1768924278645.jpg)
-![Image](../media/OpenSkills-v150-正式发布-1-1768924278841.jpg)
-![Image](../media/OpenSkills-v150-正式发布-2-1768924278947.jpg)
-![Image](../media/OpenSkills-v150-正式发布-3-1768924279043.jpg)
-![Image](../media/OpenSkills-v150-正式发布-4-1768924279136.jpg)
-![Image](../media/OpenSkills-v150-正式发布-5-1768924279228.jpg)
-![Image](../media/OpenSkills-v150-正式发布-6-1768924279316.jpg)
+![Image](file-20260121103304091.jpg)
+![Image](file-20260121103304108.jpg)
+![Image](file-20260121103304130.jpg)
+![Image](file-20260121103304141.jpg)
+![Image](file-20260121103304150.jpg)
+![Image](file-20260121103304162.jpg)
+![Image](file-20260121103304171.jpg)
