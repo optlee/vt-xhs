@@ -7,7 +7,7 @@ category: 知识
 ---
 # Obsidian 大瘦身(LYT Out)
 
-![Cover Image](../media/Obsidian-大瘦身LYT-Out-0-1769095749645.jpg)
+![Cover Image](知识/assets/Obsidian%20大瘦身(LYT%20Out)/file-20260124202309364.jpg)
 
 ---
 用了两年 Obsidian，插件装了 30+，每次打开就得思考怎么使用，打开笔记就焦虑 😵‍💫
@@ -65,4 +65,4 @@ PARA 系统，简单粗暴，够用就行
 #obsidian# #Obsidian# #知识管理# #Thino# #memo# #cubox# #para# #LYT#
 ```
 
-![Image](../media/Obsidian-大瘦身LYT-Out-0-1769095749645.jpg)
+![Image](知识/assets/Obsidian%20大瘦身(LYT%20Out)/file-20260124202309364.jpg)
