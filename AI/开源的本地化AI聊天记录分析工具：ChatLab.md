@@ -7,7 +7,7 @@ category: AI
 ---
 # 开源的本地化AI聊天记录分析工具：ChatLab
 
-![Cover Image](../media/开源的本地化AI聊天记录分析工具ChatLab-0-1769356863006.jpg)
+![Cover Image](AI/assets/开源的本地化AI聊天记录分析工具：ChatLab/file-20260126155609214.jpg)
 
 ChatLab是一款专注于聊天记录深度分析的开源项目，支持微信、QQ、WhatsApp等主流聊天软件的数据导入。
 	
@@ -26,9 +26,9 @@ ChatLab采用彻底的本地化处理方案，所有聊天数据存储在本地S
 	
 开源地址可在GitHub查看~
 
-![Image](../media/开源的本地化AI聊天记录分析工具ChatLab-0-1769356863006.jpg)
-![Image](../media/开源的本地化AI聊天记录分析工具ChatLab-1-1769356863320.jpg)
-![Image](../media/开源的本地化AI聊天记录分析工具ChatLab-2-1769356863570.jpg)
-![Image](../media/开源的本地化AI聊天记录分析工具ChatLab-3-1769356863817.jpg)
-![Image](../media/开源的本地化AI聊天记录分析工具ChatLab-4-1769356864106.jpg)
-![Image](../media/开源的本地化AI聊天记录分析工具ChatLab-5-1769356864363.jpg)
+![Image](AI/assets/开源的本地化AI聊天记录分析工具：ChatLab/file-20260126155609214.jpg)
+![Image](AI/assets/开源的本地化AI聊天记录分析工具：ChatLab/file-20260126155609224.jpg)
+![Image](AI/assets/开源的本地化AI聊天记录分析工具：ChatLab/file-20260126155609234.jpg)
+![Image](AI/assets/开源的本地化AI聊天记录分析工具：ChatLab/file-20260126155609246.jpg)
+![Image](AI/assets/开源的本地化AI聊天记录分析工具：ChatLab/file-20260126155609254.jpg)
+![Image](AI/assets/开源的本地化AI聊天记录分析工具：ChatLab/file-20260126155609263.jpg)
