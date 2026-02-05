@@ -7,7 +7,7 @@ category: AI
 ---
 # 【Mac 终极方案】完美解锁 Gemini Chrome
 
-![Cover Image](../media/Mac-终极方案完美解锁-Gemini-Chrome-0-1770218599151.jpg)
+![Cover Image](AI/assets/【Mac%20终极方案】完美解锁%20Gemini%20Chrome/Mac-终极方案完美解锁-Gemini-Chrome-0-1770218599151.jpg)
 
 第一步：升级最新版Chrome，开us梯子，规则模式即可
 第二步：开启底层功能开关
@@ -50,5 +50,5 @@ open -n -b com.google.Chrome --args --variations-override-country=us
 #Gemini3# #Chrome# #MacBook#
 ```
 
-![Image](../media/Mac-终极方案完美解锁-Gemini-Chrome-0-1770218599151.jpg)
-![Image](../media/Mac-终极方案完美解锁-Gemini-Chrome-1-1770218599324.jpg)
+![Image](AI/assets/【Mac%20终极方案】完美解锁%20Gemini%20Chrome/Mac-终极方案完美解锁-Gemini-Chrome-0-1770218599151.jpg)
+![Image](AI/assets/【Mac%20终极方案】完美解锁%20Gemini%20Chrome/Mac-终极方案完美解锁-Gemini-Chrome-1-1770218599324.jpg)

@@ -7,7 +7,7 @@ category: 知识
 ---
 # 用图中这种代码激活了office 安全吗
 
-![Cover Image](../media/用图中这种代码激活了office-安全吗-0-1769980377425.jpg)
+![Cover Image](知识/assets/用图中这种代码激活了office%20安全吗/用图中这种代码激活了office-安全吗-0-1769980377425.jpg)
 
 大四写论文要用word在找了个代码激活，结果成功了才想起来这个安不安全
 
@@ -15,4 +15,4 @@ category: 知识
 #电脑小白# #办公软件# #win11# #微软# #office激活#
 ```
 
-![Image](../media/用图中这种代码激活了office-安全吗-0-1769980377425.jpg)
+![Image](知识/assets/用图中这种代码激活了office%20安全吗/用图中这种代码激活了office-安全吗-0-1769980377425.jpg)
