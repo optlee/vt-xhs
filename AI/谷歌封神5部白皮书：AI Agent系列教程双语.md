@@ -7,7 +7,7 @@ category: AI
 ---
 # 谷歌封神5部白皮书：AI Agent系列教程双语
 
-![Cover Image](../media/谷歌封神5部白皮书AI-Agent系列教程双语-0-1770786037819.jpg)
+![Cover Image](AI/assets/谷歌封神5部白皮书：AI%20Agent系列教程双语/file-20260211210614901.jpg)
 
 Google近期发布了五本关于AI智能体的白皮书，内容比较系统，涵盖了从基础概念到实践应用的多个方面：
 	
@@ -23,9 +23,9 @@ Google近期发布了五本关于AI智能体的白皮书，内容比较系统，
 #智能体# #智能体设计模式# #人工智能就业# #ai智能体# #个人开发者# #人工智能未来# #智能体搭建# #智能体工作流#
 ```
 
-![Image](../media/谷歌封神5部白皮书AI-Agent系列教程双语-0-1770786037819.jpg)
-![Image](../media/谷歌封神5部白皮书AI-Agent系列教程双语-1-1770786038353.jpg)
-![Image](../media/谷歌封神5部白皮书AI-Agent系列教程双语-2-1770786038821.jpg)
-![Image](../media/谷歌封神5部白皮书AI-Agent系列教程双语-3-1770786039275.jpg)
-![Image](../media/谷歌封神5部白皮书AI-Agent系列教程双语-4-1770786039707.jpg)
-![Image](../media/谷歌封神5部白皮书AI-Agent系列教程双语-5-1770786040250.jpg)
+![Image](AI/assets/谷歌封神5部白皮书：AI%20Agent系列教程双语/file-20260211210614901.jpg)
+![Image](AI/assets/谷歌封神5部白皮书：AI%20Agent系列教程双语/file-20260211210614918.jpg)
+![Image](AI/assets/谷歌封神5部白皮书：AI%20Agent系列教程双语/file-20260211210614973.jpg)
+![Image](AI/assets/谷歌封神5部白皮书：AI%20Agent系列教程双语/file-20260211210614987.jpg)
+![Image](AI/assets/谷歌封神5部白皮书：AI%20Agent系列教程双语/file-20260211210615000.jpg)
+![Image](AI/assets/谷歌封神5部白皮书：AI%20Agent系列教程双语/file-20260211210615010.jpg)
