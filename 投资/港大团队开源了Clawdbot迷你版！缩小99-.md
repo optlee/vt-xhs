@@ -7,7 +7,7 @@ category: 投资
 ---
 # 港大团队开源了Clawdbot迷你版！缩小99%
 
-![Cover Image](../media/港大团队开源了Clawdbot迷你版缩小99-0-1770423907898.jpg)
+![Cover Image](投资/assets/港大团队开源了Clawdbot迷你版！缩小99-/港大团队开源了Clawdbot迷你版缩小99-0-1770423907898.jpg)
 
 受Clawdbot启发，香港大学数据科学实验室（HKUDS）开源了一个超轻量级个人AI助手nanobot，如果你觉得现在的Agent框架太重、代码太难读， nanobot 绝对会让你眼前一亮！
 	
@@ -38,8 +38,8 @@ nanobot 证明了 AI 助理并不一定需要庞大的代码库。 这种“小�
 	
 目前该项目在 GitHub 上已获得超过 9.9k stars了，非常受欢迎。
 
-![Image](../media/港大团队开源了Clawdbot迷你版缩小99-0-1770423907898.jpg)
-![Image](../media/港大团队开源了Clawdbot迷你版缩小99-1-1770423908036.jpg)
-![Image](../media/港大团队开源了Clawdbot迷你版缩小99-2-1770423908088.jpg)
-![Image](../media/港大团队开源了Clawdbot迷你版缩小99-3-1770423908145.jpg)
-![Image](../media/港大团队开源了Clawdbot迷你版缩小99-4-1770423908195.jpg)
+![Image](投资/assets/港大团队开源了Clawdbot迷你版！缩小99-/港大团队开源了Clawdbot迷你版缩小99-0-1770423907898.jpg)
+![Image](投资/assets/港大团队开源了Clawdbot迷你版！缩小99-/港大团队开源了Clawdbot迷你版缩小99-1-1770423908036.jpg)
+![Image](投资/assets/港大团队开源了Clawdbot迷你版！缩小99-/港大团队开源了Clawdbot迷你版缩小99-2-1770423908088.jpg)
+![Image](投资/assets/港大团队开源了Clawdbot迷你版！缩小99-/港大团队开源了Clawdbot迷你版缩小99-3-1770423908145.jpg)
+![Image](投资/assets/港大团队开源了Clawdbot迷你版！缩小99-/港大团队开源了Clawdbot迷你版缩小99-4-1770423908195.jpg)
