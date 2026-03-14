@@ -7,7 +7,7 @@ category: 投资
 ---
 # 金融行业必装10大openclaw skills
 
-![Cover Image](../media/金融行业必装10大openclaw-skills-0-1773444940560.jpg)
+![Cover Image](金融行业必装10大openclaw-skills-0-1773444940560.jpg)
 
 🏦 金融行业必装的 10 大 OpenClaw Skills 以下技能复制即可安装，实测可用 ✅ ───
 	
@@ -23,4 +23,4 @@ category: 投资
 #openclaw# #投行# #金融知识# #金融##大模型##养龙虾# #养龙虾教程#
 ```
 
-![Image](../media/金融行业必装10大openclaw-skills-0-1773444940560.jpg)
+![Image](金融行业必装10大openclaw-skills-0-1773444940560.jpg)
